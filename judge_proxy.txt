@@ -1,0 +1,13 @@
+azenv.net
+proxyjudge.us
+httpheader.net/azenv.php
+mojeip.net.pl/asdfa/azenv.php
+www.wfuchs.de/azenv.php
+shinh.org/env.cgi
+www.suave.net/~dave/cgi/env.cgi
+www.cknuckles.com/cgi/env.cgi
+judge1.api.proxyscrape.com
+judge2.api.proxyscrape.com
+judge3.api.proxyscrape.com
+judge4.api.proxyscrape.com
+judge5.api.proxyscrape.com
