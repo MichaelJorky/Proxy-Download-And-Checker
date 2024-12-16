@@ -1,4 +1,7 @@
 # Proxy Download And Checker
+
+> **Peringatan:** :red_circle: Alat ini dibuat khusus untuk keperluan pendidikan dan penelitian. Penulis tidak bertanggung jawab atas segala bentuk penyalahgunaan atau kerusakan yang mungkin timbul dari penggunaan program ini. Harap gunakan dengan bijak dan hanya di lingkungan di mana Anda memiliki izin eksplisit.
+
 Proxy Download dan Checker dengan Judge Proxy adalah tools atau program yang digunakan untuk mengunduh daftar proxy dari berbagai sumber (proxy download) dan memeriksa validitas proxy tersebut (proxy checker) dengan bantuan Judge Proxy. Berikut penjelasan masing-masing istilah:
 
 1. Proxy Download
