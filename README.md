@@ -54,3 +54,5 @@ Kegunaan:
 - Web Scraping: Untuk menyembunyikan IP dan menghindari pembatasan dari server target.
 - Bypass Geo-blocking: Mengakses konten yang dibatasi berdasarkan lokasi geografis.
 - Anonimitas: Menyembunyikan alamat IP asli saat berselancar di internet.
+
+~ (v1.0.0.1) Senin 16 Desember 2024 - First Release Proxy Download & Checker
